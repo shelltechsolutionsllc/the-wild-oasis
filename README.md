@@ -2,6 +2,8 @@
 
 Welcome to The Wild Oasis! This project aims to [brief description of what the project does].
 
+Take a look! 👉 https://the-wild-oasis-by-stsllc.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
