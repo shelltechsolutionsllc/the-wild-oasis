@@ -4,7 +4,7 @@
 
 The Wild Oasis is a comprehensive web application designed to manage hotel operations efficiently. It allows hotel employees to handle bookings, manage cabins, and oversee guest information seamlessly.
 
-You can check this beautiful we application on production right here! Enjoy!
+You can check this beautiful application on production right here! Enjoy!
 👉 [The Wild Oasis](https://the-wild-oasis-by-sts-llc.vercel.app)
 
 ## Table of Contents
